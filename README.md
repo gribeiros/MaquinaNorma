@@ -1,6 +1,10 @@
 # MaquinaNorma
 Aprendendo a implementar a maquina de norma.
 
+  
+    Para executar o arquivo jar utilize o comando dentro da pasta que ele esta: java -jar NomaMachine.jar
+
+
 1-Deve entrar com a quantidades de registradores vai utilizar.
 
 2-Entre com os valores levando em conta o numeros dos registradores.
