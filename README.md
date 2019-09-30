@@ -19,9 +19,9 @@ Aprendendo a implementar a maquina de norma.
     Para 3 registradores:
     Para realizar alguma função:rg1?rg2?rg3
 	
-  Aonde ? deve ser trocado por mais ou menos, não pode conter espaços e a função de multiplicação so funciona para todos os 4 numeros.   
+  Aonde ? deve ser trocado por mais ou menos, não pode conter espaços e a função de multiplicação so funciona para todos os 3 numeros.   
   
     Para 2 registradores:
     Para realizar alguma função:rg1?rg2
 	
-  Aonde ? deve ser trocado por mais ou menos, não pode conter espaços e a função de multiplicação so funciona para todos os 4 numeros. 
+  Aonde ? deve ser trocado por mais ou menos, não pode conter espaços e a função de multiplicação so funciona para os 2 numeros. 
