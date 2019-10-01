@@ -35,16 +35,6 @@ public class Registrador {
 		this.numero = numero;
 	}
 
-	public Boolean eZero2(int a) {
-
-		if (a == 0) {
-			return false;
-		} else {
-			return true;
-		}
-
-	}
-
 	public Boolean eZero(Registrador a) {
 
 		if (a.getNumero() == 0) {
